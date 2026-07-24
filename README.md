@@ -11,15 +11,15 @@ Each folder represents one lesson and contains the code used in the correspondin
 # Repository Structure
 
 ```
-001-what-is-programming/
+001-what-is-javascript/
 │── index.js
 │── README.md
 
-002-what-is-an-algorithm/
+002-where-does-javascript-run/
 │── index.js
 │── README.md
 
-003-source-code/
+003-what-can-javascript-do/
 │── index.js
 │── README.md
 
@@ -32,216 +32,189 @@ Each folder represents one lesson and contains the code used in the correspondin
 
 ## 📘 Introduction
 
-- [ ] JS001 - What is Programming?
-- [ ] JS002 - What is an Algorithm?
-- [ ] JS003 - What is Source Code?
-- [ ] JS004 - What is a Programming Language?
-- [ ] JS005 - Why Do Programming Languages Exist?
-- [ ] JS006 - What is JavaScript?
-- [ ] JS007 - Where Does JavaScript Run?
-- [ ] JS008 - What Can JavaScript Do?
-- [ ] JS009 - How JavaScript Code Runs
-- [ ] JS010 - JavaScript Engine
-- [ ] JS011 - Interpreter
-- [ ] JS012 - Your First Program
-- [ ] JS013 - console.log()
-- [ ] JS014 - Comments
+- [ ] JS001 - What is JavaScript?
+- [ ] JS002 - Where Does JavaScript Run?
+- [ ] JS003 - What Can JavaScript Do?
+- [ ] JS004 - How JavaScript Code Runs
+- [ ] JS005 - JavaScript Engine
+- [ ] JS006 - Interpreter
+- [ ] JS007 - Your First Program
+- [ ] JS008 - console.log()
+- [ ] JS009 - Comments
 
 ## 📘 Variables
 
-- [ ] JS015 - What is a Variable?
-- [ ] JS016 - Variable Declaration
-- [ ] JS017 - Variable Initialization
-- [ ] JS018 - let
-- [ ] JS019 - const
-- [ ] JS020 - var
-- [ ] JS021 - Reassignment
-- [ ] JS022 - Variable Naming
-- [ ] JS023 - Reserved Keywords
-- [ ] JS024 - Hoisting
-- [ ] JS025 - Temporal Dead Zone
+- [ ] JS010 - What is a Variable?
+- [ ] JS011 - Variable Declaration
+- [ ] JS012 - Variable Initialization
+- [ ] JS013 - let
+- [ ] JS014 - const
+- [ ] JS015 - var
+- [ ] JS016 - Reassignment
+- [ ] JS017 - Variable Naming
+- [ ] JS018 - Reserved Keywords
+- [ ] JS019 - Hoisting
+- [ ] JS020 - Temporal Dead Zone
 
 ## 📘 Data Types
 
-- [ ] JS026 - What is a Value?
-- [ ] JS027 - Data Types
-- [ ] JS028 - String
-- [ ] JS029 - Number
-- [ ] JS030 - Boolean
-- [ ] JS031 - Undefined
-- [ ] JS032 - Null
-- [ ] JS033 - Symbol
-- [ ] JS034 - BigInt
-- [ ] JS035 - Object
-- [ ] JS036 - typeof
+- [ ] JS021 - What is a Value?
+- [ ] JS022 - Data Types
+- [ ] JS023 - String
+- [ ] JS024 - Number
+- [ ] JS025 - Boolean
+- [ ] JS026 - Undefined
+- [ ] JS027 - Null
+- [ ] JS028 - Symbol
+- [ ] JS029 - BigInt
+- [ ] JS030 - Object
+- [ ] JS031 - typeof
 
 ## 📘 Operators
 
-- [ ] JS037 - Assignment Operator
-- [ ] JS038 - Arithmetic Operators
-- [ ] JS039 - Comparison Operators
-- [ ] JS040 - ==
-- [ ] JS041 - ===
-- [ ] JS042 - !=
-- [ ] JS043 - !==
-- [ ] JS044 - >
-- [ ] JS045 - <
-- [ ] JS046 - >=
-- [ ] JS047 - <=
-- [ ] JS048 - Logical Operators
-- [ ] JS049 - &&
-- [ ] JS050 - ||
-- [ ] JS051 - !
-- [ ] JS052 - Nullish Coalescing
-- [ ] JS053 - Optional Chaining
+- [ ] JS032 - Assignment Operator
+- [ ] JS033 - Arithmetic Operators
+- [ ] JS034 - Comparison Operators
+- [ ] JS035 - ==
+- [ ] JS036 - ===
+- [ ] JS037 - !=
+- [ ] JS038 - !==
+- [ ] JS039 - >
+- [ ] JS040 - <
+- [ ] JS041 - >=
+- [ ] JS042 - <=
+- [ ] JS043 - Logical Operators
+- [ ] JS044 - &&
+- [ ] JS045 - ||
+- [ ] JS046 - !
+- [ ] JS047 - Nullish Coalescing
+- [ ] JS048 - Optional Chaining
 
 ## 📘 Type Conversion
 
-- [ ] JS054 - Type Conversion
-- [ ] JS055 - Implicit Coercion
-- [ ] JS056 - Explicit Conversion
-- [ ] JS057 - String()
-- [ ] JS058 - Number()
-- [ ] JS059 - Boolean()
-- [ ] JS060 - Truthy Values
-- [ ] JS061 - Falsy Values
-- [ ] JS062 - Why [] == false?
+- [ ] JS049 - Type Conversion
+- [ ] JS050 - Implicit Coercion
+- [ ] JS051 - Explicit Conversion
+- [ ] JS052 - String()
+- [ ] JS053 - Number()
+- [ ] JS054 - Boolean()
+- [ ] JS055 - Truthy Values
+- [ ] JS056 - Falsy Values
+- [ ] JS057 - Why [] == false?
 
 ## 📘 Control Flow
 
-- [ ] JS063 - if
-- [ ] JS064 - else
-- [ ] JS065 - else if
-- [ ] JS066 - switch
-- [ ] JS067 - Ternary Operator
+- [ ] JS058 - if
+- [ ] JS059 - else
+- [ ] JS060 - else if
+- [ ] JS061 - switch
+- [ ] JS062 - Ternary Operator
 
 ## 📘 Loops
 
-- [ ] JS068 - Why Do Loops Exist?
-- [ ] JS069 - while
-- [ ] JS070 - do...while
-- [ ] JS071 - for
-- [ ] JS072 - break
-- [ ] JS073 - continue
-- [ ] JS074 - for...of
-- [ ] JS075 - for...in
+- [ ] JS063 - Why Do Loops Exist?
+- [ ] JS064 - while
+- [ ] JS065 - do...while
+- [ ] JS066 - for
+- [ ] JS067 - break
+- [ ] JS068 - continue
+- [ ] JS069 - for...of
+- [ ] JS070 - for...in
 
 ## 📘 Functions
 
-- [ ] JS076 - What is a Function?
-- [ ] JS077 - Function Declaration
-- [ ] JS078 - Function Invocation
-- [ ] JS079 - Parameters
-- [ ] JS080 - Arguments
-- [ ] JS081 - return
-- [ ] JS082 - Function Expression
-- [ ] JS083 - Arrow Functions
-- [ ] JS084 - Default Parameters
-- [ ] JS085 - Rest Parameters
-- [ ] JS086 - Spread Syntax
+- [ ] JS071 - What is a Function?
+- [ ] JS072 - Function Declaration
+- [ ] JS073 - Function Invocation
+- [ ] JS074 - Parameters
+- [ ] JS075 - Arguments
+- [ ] JS076 - return
+- [ ] JS077 - Function Expression
+- [ ] JS078 - Arrow Functions
+- [ ] JS079 - Default Parameters
+- [ ] JS080 - Rest Parameters
+- [ ] JS081 - Spread Syntax
 
 ## 📘 Scope
 
-- [ ] JS087 - Scope
-- [ ] JS088 - Global Scope
-- [ ] JS089 - Block Scope
-- [ ] JS090 - Function Scope
-- [ ] JS091 - Lexical Scope
-- [ ] JS092 - Closures
+- [ ] JS082 - Scope
+- [ ] JS083 - Global Scope
+- [ ] JS084 - Block Scope
+- [ ] JS085 - Function Scope
+- [ ] JS086 - Lexical Scope
+- [ ] JS087 - Closures
 
 ## 📘 Objects
 
-- [ ] JS093 - What is an Object?
-- [ ] JS094 - Creating Objects
-- [ ] JS095 - Properties
-- [ ] JS096 - Reading Properties
-- [ ] JS097 - Updating Properties
-- [ ] JS098 - Deleting Properties
-- [ ] JS099 - Methods
-- [ ] JS100 - this
-- [ ] JS101 - Destructuring
+- [ ] JS088 - What is an Object?
+- [ ] JS089 - Creating Objects
+- [ ] JS090 - Properties
+- [ ] JS091 - Reading Properties
+- [ ] JS092 - Updating Properties
+- [ ] JS093 - Deleting Properties
+- [ ] JS094 - Methods
+- [ ] JS095 - this
+- [ ] JS096 - Destructuring
 
 ## 📘 Arrays
 
-- [ ] JS102 - What is an Array?
-- [ ] JS103 - Creating Arrays
-- [ ] JS104 - Indexes
-- [ ] JS105 - length
-- [ ] JS106 - push()
-- [ ] JS107 - pop()
-- [ ] JS108 - shift()
-- [ ] JS109 - unshift()
-- [ ] JS110 - splice()
-- [ ] JS111 - slice()
-- [ ] JS112 - map()
-- [ ] JS113 - filter()
-- [ ] JS114 - reduce()
-- [ ] JS115 - find()
-- [ ] JS116 - some()
-- [ ] JS117 - every()
-- [ ] JS118 - includes()
-- [ ] JS119 - sort()
+- [ ] JS097 - What is an Array?
+- [ ] JS098 - Creating Arrays
+- [ ] JS099 - Indexes
+- [ ] JS100 - length
+- [ ] JS101 - push()
+- [ ] JS102 - pop()
+- [ ] JS103 - shift()
+- [ ] JS104 - unshift()
+- [ ] JS105 - splice()
+- [ ] JS106 - slice()
+- [ ] JS107 - map()
+- [ ] JS108 - filter()
+- [ ] JS109 - reduce()
+- [ ] JS110 - find()
+- [ ] JS111 - some()
+- [ ] JS112 - every()
+- [ ] JS113 - includes()
+- [ ] JS114 - sort()
 
 ## 📘 Strings
 
-- [ ] JS120 - String Methods
+- [ ] JS115 - String Methods
 
 ## 📘 Numbers & Math
 
-- [ ] JS130 - Numbers
-- [ ] JS131 - Math
+- [ ] JS116 - Numbers
+- [ ] JS117 - Math
 
 ## 📘 Dates
 
-- [ ] JS140 - Date
+- [ ] JS118 - Date
 
 ## 📘 Error Handling
 
-- [ ] JS144 - try...catch
-- [ ] JS145 - throw
+- [ ] JS119 - try...catch
+- [ ] JS120 - throw
 
 ## 📘 Modules
 
-- [ ] JS149 - import / export
+- [ ] JS121 - import / export
 
 ## 📘 Asynchronous JavaScript
 
-- [ ] JS153 - Synchronous vs Asynchronous
-- [ ] JS154 - Callback
-- [ ] JS155 - Promise
-- [ ] JS156 - async / await
-- [ ] JS157 - fetch()
+- [ ] JS122 - Synchronous vs Asynchronous
+- [ ] JS123 - Callback
+- [ ] JS124 - Promise
+- [ ] JS125 - async / await
+- [ ] JS126 - fetch()
 
 ## 📘 DOM
 
-- [ ] JS159 - DOM
-- [ ] JS160 - Selecting Elements
-- [ ] JS161 - Manipulating Elements
-- [ ] JS162 - Creating Elements
+- [ ] JS127 - DOM
+- [ ] JS128 - Selecting Elements
+- [ ] JS129 - Manipulating Elements
+- [ ] JS130 - Creating Elements
 
 ## 📘 Events
 
-- [ ] JS168 - Events
-- [ ] JS169 - addEventListener()
-- [ ] JS170 - Event Bubbling
-- [ ] JS171 - Event Delegation
-
-## 📘 Advanced JavaScript
-
-- [ ] JS176 - Prototype
-- [ ] JS177 - Prototype Chain
-- [ ] JS178 - Classes
-- [ ] JS179 - JSON
-- [ ] JS180 - localStorage
-- [ ] JS181 - sessionStorage
-- [ ] JS182 - Regular Expressions
-- [ ] JS183 - Iterators
-- [ ] JS184 - Generators
-- [ ] JS185 - Event Loop
-- [ ] JS186 - Call Stack
-- [ ] JS187 - Web APIs
-- [ ] JS188 - Task Queue
-- [ ] JS189 - Microtask Queue
-- [ ] JS190 - Garbage Collector
-- [ ] JS191 - Strict Mode
-- [ ] JS192 - Best Practices
+- [ ] JS131 - Events
+- [ ] JS132 - add
