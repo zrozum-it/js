@@ -28,6 +28,20 @@ Each folder represents one lesson and contains the code used in the correspondin
 
 ---
 
+## Dlaczego mi się to podoba?
+
+Bo za rok ktoś może wejść na GitHub i przeczytać **tylko JS037** albo **tylko JS112**. Nie musi przeglądać całego repozytorium.
+
+Każdy folder jest **samodzielną lekcją**, tak jak każdy post na Instagramie jest samodzielną lekcją.
+
+**GitHub stanie się "książką", a Instagram jej ilustracją.**
+
+- 📚 GitHub → pełne notatki + kod.
+- 📱 Instagram → skrócona wersja z metaforą.
+- 🌐 W przyszłości strona zrozum.it może po prostu wyświetlać treść z tych README.
+
+---
+
 # JavaScript Roadmap
 
 ## 📘 Introduction
