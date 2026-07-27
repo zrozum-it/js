@@ -48,8 +48,8 @@ Każdy folder jest **samodzielną lekcją**, tak jak każdy post na Instagramie 
 
 - [ ] JS001 - What is JavaScript?
 - [ ] JS002 - Where Does JavaScript Run?
-- [ ] JS003 - What Can JavaScript Do?
-- [ ] JS004 - How JavaScript Code Runs
+- [ ] JS003 - What is a code editor?
+- [ ] JS004 - How JavaScript Code Runs?
 - [ ] JS005 - JavaScript Engine
 - [ ] JS006 - Interpreter
 - [ ] JS007 - Your First Program
