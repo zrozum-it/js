@@ -50,7 +50,7 @@ Każdy folder jest **samodzielną lekcją**, tak jak każdy post na Instagramie 
 - [ ] JS002 - Where Does JavaScript Run?
 - [ ] JS003 - What is a code editor?
 - [ ] JS004 - How JavaScript Code Runs?
-- [ ] JS005 - JavaScript Engine
+- [ ] JS005 - What is the console?
 - [ ] JS006 - Interpreter
 - [ ] JS007 - Your First Program
 - [ ] JS008 - console.log()
