@@ -51,14 +51,12 @@ Każdy folder jest **samodzielną lekcją**, tak jak każdy post na Instagramie 
 - [ ] JS003 - What is a code editor?
 - [ ] JS004 - How JavaScript Code Runs?
 - [ ] JS005 - What is the console?
-- [ ] JS006 - Interpreter
-- [ ] JS007 - Your First Program
-- [ ] JS008 - console.log()
-- [ ] JS009 - Comments
+- [ ] JS006 - console.log()
+- [ ] JS007 - Comments
 
 ## 📘 Variables
 
-- [ ] JS010 - What is a Variable?
+- [ ] JS008  - What is a Variable?
 - [ ] JS011 - Variable Declaration
 - [ ] JS012 - Variable Initialization
 - [ ] JS013 - let
