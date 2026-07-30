@@ -1,0 +1,1 @@
+console.log("I can display in console what I want thanks to console log")
