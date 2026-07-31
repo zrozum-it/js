@@ -56,7 +56,7 @@ Każdy folder jest **samodzielną lekcją**, tak jak każdy post na Instagramie 
 
 ## 📘 Variables
 
-- [ ] JS008  - What is a Variable?
+- [ ] JS008 - What is a Variable?
 - [ ] JS011 - Variable Declaration
 - [ ] JS012 - Variable Initialization
 - [ ] JS013 - let
