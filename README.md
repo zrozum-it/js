@@ -57,30 +57,22 @@ Każdy folder jest **samodzielną lekcją**, tak jak każdy post na Instagramie 
 ## 📘 Variables
 
 - [ ] JS008 - What is a Variable?
-- [ ] JS011 - Variable Declaration
-- [ ] JS012 - let vs const vs var
-- [ ] JS013 - let
-- [ ] JS014 - const
-- [ ] JS015 - var
-- [ ] JS016 - Reassignment
-- [ ] JS017 - Variable Naming
-- [ ] JS018 - Reserved Keywords
-- [ ] JS019 - Hoisting
-- [ ] JS020 - Temporal Dead Zone
+- [ ] JS009 - let vs const vs var
+- [ ] JS010 - Assignment operator
 
 ## 📘 Data Types
 
-- [ ] JS021 - What is a Value?
-- [ ] JS022 - Data Types
-- [ ] JS023 - String
-- [ ] JS024 - Number
-- [ ] JS025 - Boolean
-- [ ] JS026 - Undefined
-- [ ] JS027 - Null
-- [ ] JS028 - Symbol
-- [ ] JS029 - BigInt
-- [ ] JS030 - Object
-- [ ] JS031 - typeof
+- [ ] JS011 - What is a Value?
+- [ ] JS012 - Data Types
+- [ ] JS013 - String
+- [ ] JS014 - Number
+- [ ] JS015 - Boolean
+- [ ] JS016 - Undefined
+- [ ] JS017 - Null
+- [ ] JS018 - Symbol
+- [ ] JS019 - BigInt
+- [ ] JS020 - Object
+- [ ] JS021 - typeof
 
 ## 📘 Operators
 
